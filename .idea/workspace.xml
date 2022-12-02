@@ -1,12 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37cc9cc8-adb4-4ad9-a7b7-250e2dda90f9" name="Changes" comment="" />
+    <list default="true" id="37cc9cc8-adb4-4ad9-a7b7-250e2dda90f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metodos/MetodosString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/EjerciciosOperarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/TiposDeOperadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TipoString/EjemploString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables/ConverciondeTipos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables/Ejercicios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables/Ejercicios2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables/Primitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables/PrimitivosFloat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables/Variables.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2I98fyCPITWh7eZDE5ORePvJGje" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Crist\Desktop\Clases Java\src" />
+      <recent name="C:\Users\Crist\Desktop\Clases Java\Variables" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ejercicios2">
+    <configuration name="ConverciondeTipos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables.ConverciondeTipos" />
+      <module name="Clases Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables.Ejercicios" />
+      <module name="Clases Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicios2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables.Ejercicios2" />
+      <module name="Clases Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Primitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables.Primitivos" />
+      <module name="Clases Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ejercicios2" />
+        <item itemvalue="Application.ConverciondeTipos" />
+        <item itemvalue="Application.Ejercicios" />
+        <item itemvalue="Application.Primitivos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37cc9cc8-adb4-4ad9-a7b7-250e2dda90f9" name="Changes" comment="" />
+      <created>1669582586007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669582586007</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>

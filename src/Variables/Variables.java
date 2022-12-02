@@ -1,3 +1,5 @@
+package Variables;
+
 public class Variables {
 
     public static void main(String[] args){
@@ -7,15 +9,14 @@ public class Variables {
         System.out.println("hola = " + hola.toUpperCase());
 
         int numeroEntero = 10;
-        float numeroFlotante = 10.1;
+        //float numeroFlotante = 10.1;
         String cadenaLetras = "hola";
 
-        System.out.println("cadenaLetras = " + cadenaLetras + "numeroEntero" + numeroEntero
-                +"numeroFlotante" + numeroFlotante);
+        System.out.println("cadenaLetras = " + cadenaLetras + "numeroEntero" + numeroEntero);
 
-        boolean valor = true
+        boolean valor = true;
 
-                
+
 
     }
 
