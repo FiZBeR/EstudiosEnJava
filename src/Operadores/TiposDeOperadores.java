@@ -64,5 +64,16 @@ public class TiposDeOperadores {
         * Estos operadores los utilizamos para cambiar el signo de un valor, asi como -5, -i, -90
         * y esto sigue la ley de signos + + + = +, - + - + = +, + + - = -, - + + = -
         * */
+
+        //OPERADOR TERNARIO
+        /*Este nos sirve para evaluar expreciones booleanas y este esta dividido en 3 partes, de ay su nombre
+        * este operador siempre le devuelve un valor a la variable, asi es su estructura:
+        *
+        *         variable = condicion ? si es verdadero : si es falso
+        * En Java:
+        *
+        *     String variable = 7 == 7 ? "si es verdadero" : "Si es falso";
+        *
+        * */
     }
 }

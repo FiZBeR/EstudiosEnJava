@@ -2,22 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37cc9cc8-adb4-4ad9-a7b7-250e2dda90f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clases Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Metodos/MetodosString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operadores/EjerciciosOperarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operadores/TiposDeOperadores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TipoString/EjemploString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variables/ConverciondeTipos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variables/Ejercicios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variables/Ejercicios2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variables/Primitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variables/PrimitivosFloat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variables/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlujosDeControl/Ejercicios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlujosDeControl/TiposDeFlujo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Metodos/MetodosString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Metodos/MetodosString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operadores/EjerciciosOperarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/EjerciciosOperarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operadores/TiposDeOperadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/TiposDeOperadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TipoString/EjemploString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TipoString/EjemploString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variables/ConverciondeTipos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/ConverciondeTipos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variables/Ejercicios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/Ejercicios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variables/Ejercicios2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/Ejercicios2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variables/Primitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/Primitivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variables/PrimitivosFloat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/PrimitivosFloat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variables/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,7 @@
       <recent name="C:\Users\Crist\Desktop\Clases Java\Variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ejercicios2">
+  <component name="RunManager" selected="Application.EjerciciosOperarios">
     <configuration name="ConverciondeTipos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Variables.ConverciondeTipos" />
       <module name="Clases Java" />
@@ -96,6 +93,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EjerciciosOperarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operadores.EjerciciosOperarios" />
+      <module name="Clases Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Operadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Primitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Variables.Primitivos" />
       <module name="Clases Java" />
@@ -111,6 +121,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjerciciosOperarios" />
         <item itemvalue="Application.Ejercicios2" />
         <item itemvalue="Application.ConverciondeTipos" />
         <item itemvalue="Application.Ejercicios" />
