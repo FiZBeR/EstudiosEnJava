@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37cc9cc8-adb4-4ad9-a7b7-250e2dda90f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FlujosDeControl/Ejercicios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlujosDeControl/TiposDeFlujo.java" afterDir="false" />
+    <list default="true" id="37cc9cc8-adb4-4ad9-a7b7-250e2dda90f9" name="Changes" comment="&quot;06/12/2022&quot;">
+      <change afterPath="$PROJECT_DIR$/src/ClasesUtiles/DateParse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasesUtiles/EjemploJavUtilDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasesUtiles/EjemploJavaUtilCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValorReferencia/PasarPorReferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValorReferencia/PasarPorReferencia2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValorReferencia/PasarPorValor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Metodos/MetodosString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Metodos/MetodosString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FlujosDeControl/Ejercicios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlujosDeControl/Ejercicios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FlujosDeControl/TiposDeFlujo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlujosDeControl/TiposDeFlujo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Operadores/EjerciciosOperarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/EjerciciosOperarios.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Operadores/TiposDeOperadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/TiposDeOperadores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TipoString/EjemploString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TipoString/EjemploString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables/ConverciondeTipos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/ConverciondeTipos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables/Ejercicios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/Ejercicios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables/Ejercicios2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/Ejercicios2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables/Primitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/Primitivos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables/PrimitivosFloat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/PrimitivosFloat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,14 +50,17 @@
       <recent name="C:\Users\Crist\Desktop\Clases Java\src" />
       <recent name="C:\Users\Crist\Desktop\Clases Java\Variables" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ValorReferencia" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.EjerciciosOperarios">
-    <configuration name="ConverciondeTipos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables.ConverciondeTipos" />
+  <component name="RunManager" selected="Application.DateParse">
+    <configuration name="DateParse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClasesUtiles.DateParse" />
       <module name="Clases Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Variables.*" />
+          <option name="PATTERN" value="ClasesUtiles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables.Ejercicios" />
+    <configuration name="EjemploJavUtilDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClasesUtiles.EjemploJavUtilDate" />
       <module name="Clases Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Variables.*" />
+          <option name="PATTERN" value="ClasesUtiles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicios2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables.Ejercicios2" />
+    <configuration name="EjemploJavaUtilCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClasesUtiles.EjemploJavaUtilCalendar" />
       <module name="Clases Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Variables.*" />
+          <option name="PATTERN" value="ClasesUtiles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjerciciosOperarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operadores.EjerciciosOperarios" />
+    <configuration name="PasarPorReferencia2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValorReferencia.PasarPorReferencia2" />
       <module name="Clases Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Operadores.*" />
+          <option name="PATTERN" value="ValorReferencia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Primitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables.Primitivos" />
+    <configuration name="SentenciasBuquesEtiquetasBuscar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlujosDeControl.SentenciasBuquesEtiquetasBuscar" />
       <module name="Clases Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Variables.*" />
+          <option name="PATTERN" value="FlujosDeControl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EjerciciosOperarios" />
-        <item itemvalue="Application.Ejercicios2" />
-        <item itemvalue="Application.ConverciondeTipos" />
-        <item itemvalue="Application.Ejercicios" />
-        <item itemvalue="Application.Primitivos" />
+        <item itemvalue="Application.DateParse" />
+        <item itemvalue="Application.EjemploJavaUtilCalendar" />
+        <item itemvalue="Application.EjemploJavUtilDate" />
+        <item itemvalue="Application.PasarPorReferencia2" />
+        <item itemvalue="Application.SentenciasBuquesEtiquetasBuscar" />
       </list>
     </recent_temporary>
   </component>
@@ -150,5 +151,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;06/12/2022&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;06/12/2022&quot;" />
   </component>
 </project>

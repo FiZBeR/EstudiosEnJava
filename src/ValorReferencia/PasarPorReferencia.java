@@ -1,18 +1,28 @@
 package ValorReferencia;
 
-public class PasarPorValor {
+public class PasarPorReferencia {
     public static void main(String[] args) {
 
-        int i = 10;
-        System.out.println("comenzamos el metodo main con i = " + i);
-        test(i);
-        System.out.println("finaliza el metodo main con el valor de i = " + i);
+        int [] edad = {10, 11, 12};
+        System.out.println("Iniciamos el metodo main");
+        for (int i = 0; i < edad.length; i++){
+            System.out.println("edad[i] = " + edad[i]);
+        }
+        System.out.println("Antes de llamar el metodo test");
+        test(edad);
+        System.out.println("Despues de llamar el metodo test");
+        for (int i = 0; i < edad.length; i++){
+            System.out.println("edad[i] = " + edad[i]);
+        }
+        System.out.println("finaliza el metodo main con los datos del arreglo modificado ");
     }
 
-    public static void test(int i){
-        System.out.println("comenzamos el metodo test con i  = " + i);
-        i = 35;
-        System.out.println("Finaliza con el nuevo valor de i = " + i);
+    public static void test(int[] edadArr){
+        System.out.println("Inicializamos el metodo test");
+        for (int i = 0; i < edadArr.length; i++){
+            edadArr[i] = edadArr[i] + 20;
+        };
+        System.out.println("Finaliza el metodo test ");
     }
 
 }

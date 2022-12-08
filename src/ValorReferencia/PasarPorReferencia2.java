@@ -1,27 +1,36 @@
 package ValorReferencia;
+class Persona{
+    private String nombre;
 
-public class PasarPorReferencia {
-    public static void main(String[] args) {
-
-        int [] edad = {10, 11, 12};
-        System.out.println("Iniciamos el metodo main");
-        for (int i = 0; i < edad.length; i++){
-            System.out.println("edad[i] = " + edad[i]);
-        }
-        System.out.println("Antes de llamar el metodo test");
-        test(edad);
-        System.out.println("Despues de llamar el metodo test");
-        for (int i = 0; i < edad.length; i++){
-            System.out.println("edad[i] = " + edad[i]);
-        }
-        System.out.println("finaliza el metodo main con los datos del arreglo modificado ");
+    public void modificarNombre(String nuevoNombre){
+        this.nombre = nuevoNombre;
     }
 
-    public static void test(int[] edadArr){
+    public String leerNombre(){
+        return this.nombre;
+    }
+}
+
+
+public class PasarPorReferencia2 {
+    public static void main(String[] args) {
+
+        Persona persona = new Persona();
+        persona.modificarNombre("Heidy");
+        System.out.println("Iniciamos el metodo main");
+
+        System.out.println("persona = " + persona.leerNombre());
+
+        System.out.println("Antes de llamar el metodo test");
+        test(persona);
+        System.out.println("Despues de llamar el metodo test");
+        System.out.println("persona = " + persona.leerNombre());
+        System.out.println("finaliza el metodo main con los datos la persona modificado ");
+    }
+
+    public static void test(Persona persona){
         System.out.println("Inicializamos el metodo test");
-        for (int i = 0; i < edadArr.length; i++){
-            edadArr[i] = edadArr[i] + 20;
-        };
+        persona.modificarNombre("Ambar");
         System.out.println("Finaliza el metodo test ");
     }
 
