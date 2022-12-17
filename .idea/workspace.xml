@@ -2,17 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37cc9cc8-adb4-4ad9-a7b7-250e2dda90f9" name="Changes" comment="&quot;06/12/2022&quot;">
-      <change afterPath="$PROJECT_DIR$/src/ClasesUtiles/DateParse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasesUtiles/EjemploJavUtilDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasesUtiles/EjemploJavaUtilCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValorReferencia/PasarPorReferencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValorReferencia/PasarPorReferencia2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValorReferencia/PasarPorValor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseMath/EjemploClaseMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseMath/MathRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseSystem/AsignarPropiedadesDeSistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseSystem/EjemploPropiedadesdeSistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseSystem/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseWrapper/Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlujosDeControl/SentenciaForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlujosDeControl/SentenciaForWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlujosDeControl/SentenciaWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlujosDeControl/SentenciasBucleEtiquetas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlujosDeControl/SentenciasBuquesEtiquetasBuscar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClasesUtiles/DateParse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClasesUtiles/DateParse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClasesUtiles/EjemploJavUtilDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClasesUtiles/EjemploJavUtilDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClasesUtiles/EjemploJavaUtilCalendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClasesUtiles/EjemploJavaUtilCalendar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FlujosDeControl/Ejercicios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlujosDeControl/Ejercicios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FlujosDeControl/TiposDeFlujo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlujosDeControl/TiposDeFlujo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operadores/EjerciciosOperarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/EjerciciosOperarios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operadores/TiposDeOperadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/TiposDeOperadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValorReferencia/PasarPorReferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ValorReferencia/PasarPorReferencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValorReferencia/PasarPorReferencia2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ValorReferencia/PasarPorReferencia2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValorReferencia/PasarPorValor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ValorReferencia/PasarPorValor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +62,13 @@
       <recent name="ValorReferencia" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DateParse">
-    <configuration name="DateParse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClasesUtiles.DateParse" />
+  <component name="RunManager" selected="Application.MathRandom">
+    <configuration name="AsignarPropiedadesDeSistema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClaseSystem.AsignarPropiedadesDeSistema" />
       <module name="Clases Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ClasesUtiles.*" />
+          <option name="PATTERN" value="ClaseSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploJavUtilDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClasesUtiles.EjemploJavUtilDate" />
+    <configuration name="DateParse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClasesUtiles.DateParse" />
       <module name="Clases Java" />
       <extension name="coverage">
         <pattern>
@@ -94,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasarPorReferencia2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValorReferencia.PasarPorReferencia2" />
+    <configuration name="EjemploPropiedadesdeSistema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClaseSystem.EjemploPropiedadesdeSistema" />
       <module name="Clases Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ValorReferencia.*" />
+          <option name="PATTERN" value="ClaseSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SentenciasBuquesEtiquetasBuscar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FlujosDeControl.SentenciasBuquesEtiquetasBuscar" />
+    <configuration name="MathRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClaseMath.MathRandom" />
       <module name="Clases Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FlujosDeControl.*" />
+          <option name="PATTERN" value="ClaseMath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MathRandom" />
+        <item itemvalue="Application.AsignarPropiedadesDeSistema" />
+        <item itemvalue="Application.EjemploPropiedadesdeSistema" />
         <item itemvalue="Application.DateParse" />
         <item itemvalue="Application.EjemploJavaUtilCalendar" />
-        <item itemvalue="Application.EjemploJavUtilDate" />
-        <item itemvalue="Application.PasarPorReferencia2" />
-        <item itemvalue="Application.SentenciasBuquesEtiquetasBuscar" />
       </list>
     </recent_temporary>
   </component>
