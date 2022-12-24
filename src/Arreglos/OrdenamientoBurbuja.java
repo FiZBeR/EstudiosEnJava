@@ -2,7 +2,7 @@ package Arreglos;
 
 import java.util.Arrays;
 
-public class ForInversaMutable {
+public class OrdenamientoBurbuja {
 
     public static void arrelgloinverso(String[] arreglo){
         //For inverso como metodo
@@ -20,19 +20,24 @@ public class ForInversaMutable {
 
     /*================================Iterando de atras hacia delante============================================*/
 
-        String[] productos = new String[5];
-
+        String[] productos = {"Juguete para perro", "Comida para perro mediano", "Casita para perros"
+        , "Vestido mujer maravilla para perro", "Cuernitos de Diablo"};
 
         int total = productos.length;
+        //Primer for recorre cada elemento
+        for (int i = 0; i < total; i++){
+            //El segundo for compara cada elemento
+            for (int j = 0; j < total; j++){
+                if (productos[i].compareTo(productos[j]) < 0){
+                    String auxiliar = productos[i];
+                    productos[i] = productos[j];
+                    productos[j] = auxiliar;
+                }
+            }
+        }
 
-        productos[0] = "Juguete para perro";
-        productos[1] = "Comida para perro mediano";
-        productos[2] = "Casita para perros";
-        productos[3] = "Vestido mujer maravilla para perro";
-        productos[4] = "Cuernitos de Diablo";
-
-        Arrays.sort(productos);
-        arrelgloinverso(productos);
+        //Arrays.sort(productos);
+        //arrelgloinverso(productos);
 
         for (int i = 0; i < total; i++){
             System.out.println("para indice " + i + " : " + productos[i]);

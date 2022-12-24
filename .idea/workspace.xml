@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37cc9cc8-adb4-4ad9-a7b7-250e2dda90f9" name="Changes" comment="&quot;06/12/2022&quot;">
-      <change afterPath="$PROJECT_DIR$/src/Arreglos/EjemploArreglos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arreglos/EjemploArreglosFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arreglos/EjemploArreglosForInversa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arreglos/OrdenConsort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Condicionales1a10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos/ForInversaMutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos/OrdenamientoBurbuja.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClaseMath/EjemploClaseMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClaseMath/EjemploClaseMath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClaseMath/MathRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClaseMath/MathRandom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClaseSystem/AsignarPropiedadesDeSistema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClaseSystem/AsignarPropiedadesDeSistema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClaseSystem/EjemploPropiedadesdeSistema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClaseSystem/EjemploPropiedadesdeSistema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClaseSystem/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClaseSystem/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arreglos/EjemploArreglos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arreglos/EjemploArreglos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arreglos/EjemploArreglosFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arreglos/EjemploArreglosFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arreglos/EjemploArreglosForInversa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arreglos/EjemploArreglosForInversa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arreglos/OrdenConsort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arreglos/OrdenConsort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicios/Condicionales1a10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/Condicionales1a10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

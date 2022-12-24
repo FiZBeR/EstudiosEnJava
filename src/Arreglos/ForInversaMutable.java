@@ -2,7 +2,20 @@ package Arreglos;
 
 import java.util.Arrays;
 
-public class EjemploArreglosForInversa {
+public class ForInversaMutable {
+
+    public static void arrelgloinverso(String[] arreglo){
+        //For inverso como metodo
+        int total = arreglo.length;
+        int total2 = arreglo.length;
+        for (int i = 0; i < total/2; i++){
+            String actual = arreglo[i];
+            String inverso = arreglo[total-1-i];
+            arreglo[i] = inverso;
+            arreglo[total-1-i]= actual;
+            total2--;
+        }
+    }
     public static void main(String[] args) {
 
     /*================================Iterando de atras hacia delante============================================*/
@@ -19,16 +32,11 @@ public class EjemploArreglosForInversa {
         productos[4] = "Cuernitos de Diablo";
 
         Arrays.sort(productos);
+        arrelgloinverso(productos);
+
         for (int i = 0; i < total; i++){
             System.out.println("para indice " + i + " : " + productos[i]);
         }
-        //For inverso
-        for (int i = 0; i < total; i++){
-            System.out.println("para i = " + (total-1-i) + "valor: " + productos[total-1-i]);
-        }
-
-
-
 
     }
 }
